@@ -1,0 +1,9 @@
+site_name: My Docs
+
+nav:
+  - Home: index.md
+  - Hasiera: hasiera.md
+  - Lehenengo erronka: 1erronka.md
+  - Bigarren erronka: 2erronka.md
+  - Jaso ditugun datuak: JasotakoDatuak.md
+  
